@@ -1,4 +1,4 @@
-# Decision Support System for a Real Estate Company
+# Real Estate Data Engineering & Decision Support System
 
 A full-stack BI solution that uses Python webhooks to stream CRM events into a PostgreSQL database hosted on Render, powering automated and on-demand Power BI dashboards for a real estate company.
 

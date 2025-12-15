@@ -1,4 +1,5 @@
-# Real Estate ETL Engine and Decision Support System
+# CRM to PostgreSQL ETL for Real Estate Analytics
+
 
 A full-stack BI solution that uses Python webhooks to stream CRM events into a PostgreSQL database hosted on Render, powering automated and on-demand Power BI dashboards for a real estate company.
 
